@@ -1,0 +1,3 @@
+Classifier,1%,5%,10%,15%,20%,Number of Features
+EC_GENPROT,0.8,0.73,0.61,0.5,0.43,3
+EC_NO_GENPROT,0.71,0.49,0.37,0.34,0.34,5
