@@ -1,5 +1,19 @@
-# Computational Replication of Essential Gene Identification
+# Computational Replication of Essential Gene Identification Methods in Targeted Genome Sequencing  
+**Niccolò Caselli**  
+**30/12/2024**
 
+**University of Florence – School of Engineering**  
+**Bachelor’s Degree in Computer Engineering**  
+
+**Project submitted for the final exam of the Artificial Intelligence course – B003725**  
+
+**Professor:**  
+Prof. Paolo Frasconi  
+
+**Department:**  
+Department of Information Engineering  
+
+---
 This project is a computational study aimed at replicating the findings of the research paper "Towards the Identification of Essential Genes Using Targeted Genome Sequencing and Comparative Analysis" by Gustafson et al. (2006). It focuses on evaluating machine learning classifiers for predicting essential genes in _S. cerevisiae_ and _E. coli_, validating the performance and methodology presented in the original work.
 
 ## Objective
@@ -28,4 +42,4 @@ The replication validated the original study's results, demonstrating that compu
 
 ## Additional Information
 
-All source code, plots, and results are available on GitHub: [report.pdf](https://github.com/NiccoloCase/essential-genes-identification/main/report.pdf)
+All source code, plots, and results are available on GitHub: [report.pdf](https://github.com/NiccoloCase/essential-genes-identification/blob/main/report.pdf)
